@@ -6,6 +6,7 @@ def tof():
     #True # correct
     #true # wrong
     #False
+    #ture
     print(type(True))
     print(1 > 2)
     print(1 == 1)
